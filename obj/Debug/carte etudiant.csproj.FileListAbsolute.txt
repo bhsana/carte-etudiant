@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\bin\Debug\carte etudiant.exe.config
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte etudiant.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte_etudiant.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte_etudiant.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte etudiant.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\bin\Debug\carte etudiant.exe
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\bin\Debug\carte etudiant.pdb
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte etudiant.exe
+c:\users\user\documents\visual studio 2015\Projects\carte etudiant\carte etudiant\obj\Debug\carte etudiant.pdb
